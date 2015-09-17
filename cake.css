@@ -10,13 +10,7 @@ a {
   color: #1798A5;
 }
 
-.side-nav li a:not(.button) {
-  color: #337AB7;
-}
 
-.side-nav li a:not(.button):hover {
-  color: #337AB7;
-}
 
 header {
   background-color: #FFFFFF;
@@ -64,6 +58,8 @@ legend {
 .header-img {
   float: right;
   padding-right:250px;
+  margin-top: 20px;
+  margin-base:10px;
 }
 div.text-xs-center text-sm-left{
 background-color:#dcdcdc
